@@ -2,5 +2,5 @@
 
 ### Pratique Bootstrap
 
-[I'm an inline-style link](https://www.google.com)
+[click]( https://soufianecode.github.io/bootstrap/)
 
